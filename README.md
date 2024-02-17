@@ -1,40 +1,16 @@
-## Micronaut 4.3.2 Documentation
+## Rinha de Backend - 2024/Q1
 
-- [User Guide](https://docs.micronaut.io/4.3.2/guide/index.html)
-- [API Reference](https://docs.micronaut.io/4.3.2/api/index.html)
-- [Configuration Reference](https://docs.micronaut.io/4.3.2/guide/configurationreference.html)
-- [Micronaut Guides](https://guides.micronaut.io/index.html)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="logo nginx" width="300" height="auto">
+<br />
+<img src="https://imgs.search.brave.com/UMVEknCjVHqF5u-CRSdbLErPbdLjY7CH5u4aTHGPYpQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jb21t/dW5pdHkuY2hvY29s/YXRleS5vcmcvY29u/dGVudC9wYWNrYWdl/aW1hZ2VzL21pY3Jv/bmF1dC40LjIuMi5w/bmc" alt="logo clojure" width="200" height="auto">
+<br />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="logo postgres" width="200" height="auto">
 
----
+## Guilherme Santos
+Submissão feita com:
+- `nginx` como load balancer
+- `postgres` como banco de dados
+- `micronaut` para api 
+- [repositório da api](https://github.com/gfdsn/rb-micronaut)
 
-- [Shadow Gradle Plugin](https://plugins.gradle.org/plugin/com.github.johnrengelman.shadow)
-- [Micronaut Gradle Plugin documentation](https://micronaut-projects.github.io/micronaut-gradle-plugin/latest/)
-- [GraalVM Gradle Plugin documentation](https://graalvm.github.io/native-build-tools/latest/gradle-plugin.html)
-
-## Feature test-resources documentation
-
-- [Micronaut Test Resources documentation](https://micronaut-projects.github.io/micronaut-test-resources/latest/guide/)
-
-## Feature tomcat-server documentation
-
-- [Micronaut Tomcat Server documentation](https://micronaut-projects.github.io/micronaut-servlet/1.0.x/guide/index.html#tomcat)
-
-## Feature micronaut-aot documentation
-
-- [Micronaut AOT documentation](https://micronaut-projects.github.io/micronaut-aot/latest/guide/)
-
-## Feature serialization-jackson documentation
-
-- [Micronaut Serialization Jackson Core documentation](https://micronaut-projects.github.io/micronaut-serialization/latest/guide/)
-
-## Feature cache-ehcache documentation
-
-- [Micronaut EHCache Cache documentation](https://micronaut-projects.github.io/micronaut-cache/latest/guide/index.html#ehcache)
-
-- [https://www.ehcache.org/](https://www.ehcache.org/)
-
-## Feature jdbc-hikari documentation
-
-- [Micronaut Hikari JDBC Connection Pool documentation](https://micronaut-projects.github.io/micronaut-sql/latest/guide/index.html#jdbc)
-
-
+[@nogfds](https://twitter.com/nogfds) - Twitter
