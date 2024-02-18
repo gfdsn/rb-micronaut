@@ -7,7 +7,6 @@ import com.ngfds.repositories.ClientRepository;
 import com.ngfds.repositories.TransactionRepository;
 import io.micronaut.http.HttpResponse;
 import io.micronaut.http.HttpStatus;
-import io.micronaut.scheduling.annotation.Async;
 import jakarta.inject.Inject;
 import jakarta.inject.Singleton;
 import jakarta.transaction.Transactional;
